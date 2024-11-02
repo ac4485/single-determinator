@@ -1,29 +1,3 @@
----
-layout: license
-title: BSD 3-clause "New" or "Revised" License
-nickname: New BSD
-category: BSD
-tab-slug: bsd-3
-hide-from-license-list: true
-
-source: http://opensource.org/licenses/BSD-3-Clause
-
-required:
-  - include-copyright
-
-permitted:
-  - commercial-use
-  - modifications
-  - distribution
-  - sublicense
-  - private-use
-
-forbidden:
-  - no-liability
-  - trademark-use
-
----
-
 Copyright (c) 2024, ac4485
 All rights reserved.
 
